@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Тест загрузки данных</string>
+    <string name="hint">Адрес</string>
+	<string name="go">-&gt;</string>
+    <string name="text">Текст</string>
+    <string name="img">Изображение</string>
+    <string name="page">Web-страница</string>
+
+</resources>

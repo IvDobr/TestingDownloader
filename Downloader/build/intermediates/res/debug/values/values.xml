@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Dobr/StudioProjects/Downloader/Downloader/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Downloader</string>
+    <string name="go">-></string>
+    <string name="hint">Адрес</string>
+    <string name="img">Изображение</string>
+    <string name="page">Web-страница</string>
+    <string name="text">Текст</string>
+</resources>
